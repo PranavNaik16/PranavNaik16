@@ -84,7 +84,7 @@
 
 ---
 
-## 💥 Real-Time Rush: Hackathon Mode
+## 💥 💣 Under Pressure: Where I Thrive	
 
 > "Deadlines? Checked. Coffee? Double-checked. Logic? On fire. 🔥"
 
@@ -94,4 +94,5 @@
 
 ⛳ **Open-source contributions?** Brewing. The grind never stops.
 
+---
 
