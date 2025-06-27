@@ -141,7 +141,7 @@ And someday... launch something of my own that makes you say “Whoa, that’s s
 
 ## 📬 Get In Touch (Strictly Tech Vibes Only)
 
-- [📄 My Resume](#)  
+- [📄 My Resume](https://github.com/PranavNaik16/PranavNaik16/blob/main/pranav_cv.pdf)  
 - [🌐 Portfolio](#)  
 - [📧 Email Me](pranavnaik355@gmail.com)  
 - [🔗 LinkedIn](https://www.linkedin.com/in/pranav-naik-07503a264/)
