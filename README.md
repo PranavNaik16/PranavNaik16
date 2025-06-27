@@ -58,8 +58,29 @@
 
 ---
 
-## 🧪 Experiments in the Wild – My Project Zone
-*(Table placeholder stays here...)*
+## 🧪 👨‍💻 From Terminal to Triumph – My Project Zone
+<table>
+  <tr>
+    <th>🚀 Project</th>
+    <th>💡 What It Does</th>
+    <th>🔗 Live Demo</th>
+  </tr>
+  <tr>
+    <td>Project Name 1</td>
+    <td>Description of what it does...</td>
+    <td><a href="#">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Project Name 2</td>
+    <td>Description of what it does...</td>
+    <td><a href="#">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Project Name 3</td>
+    <td>Description of what it does...</td>
+    <td><a href="#">Demo</a></td>
+  </tr>
+</table>
 
 ---
 
