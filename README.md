@@ -96,3 +96,26 @@
 
 ---
 
+## 📊 Tech Pulse – My GitHub at a Glance
+
+![Profile Views](https://komarev.com/ghpvc/?username=PranavNaik16&color=blue&style=flat-square)
+
+<!-- GitHub Stats Card -->
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavNaik16&show_icons=true&theme=dark&rank_icon=github&hide_title=true)
+
+<!-- GitHub Trophies -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=PranavNaik16&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub Contribution Graph -->
+[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavNaik16&bg_color=0d1117&color=00ffbf&line=00ffe5&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- Language Stats -->
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNaik16&layout=compact&theme=radical&langs_count=10" />
+  
+  <img src="https://streak-stats.demolab.com/?user=PranavNaik16&theme=highcontrast&hide_border=true&background=000000&ring=ff6600&fire=ff6600&currStreakNum=ffffff" />
+
+</div>
+
+
