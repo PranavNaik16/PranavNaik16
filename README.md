@@ -58,3 +58,19 @@
 
 ---
 
+## 🧪 Experiments in the Wild – My Project Zone
+*(Table placeholder stays here...)*
+
+---
+
+## 💥 Real-Time Rush: Hackathon Mode
+
+> "Deadlines? Checked. Coffee? Double-checked. Logic? On fire. 🔥"
+
+🧠 Tackled **DSA challenges** with fresh approaches under time pressure.  
+🎨 Built stunning **UI prototypes** with seamless functionality.  
+🔧 Contributed strong **backend logic** to bring projects to life.
+
+⛳ **Open-source contributions?** Brewing. The grind never stops.
+
+
