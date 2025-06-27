@@ -96,6 +96,27 @@
 
 ---
 
+## 🎯 Vision & Vibes
+
+🔧 **Build a dev space where collaboration isn't a buzzword — it's a baseline**
+
+- 💡 Develop AI tools and intuitive platforms for real-world impact
+- 🌐 Explore the intersection of Cybersecurity, DevOps & Automation
+- 🧠 Keep upskilling in Backend Systems, Devops, and GenAI 
+
+And someday... launch something of my own that makes you say “Whoa, that’s slick.” 🚀
+
+---
+
+## 🎮 When Not Coding...
+
+⚽ Footballer by soul – big love for the game  
+📺 Series enthusiast – from thrillers to tech-driven narratives  
+📊 Exploring the world of trading – charts, trends & strategies  
+🎧 Lo-fi & chillhop coder – always ready to share playlists  
+
+---
+
 ## 📊 Tech Pulse – My GitHub at a Glance
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PranavNaik16&color=blue&style=flat-square)
@@ -117,29 +138,6 @@
   <img src="https://streak-stats.demolab.com/?user=PranavNaik16&theme=highcontrast&hide_border=true&background=000000&ring=ff6600&fire=ff6600&currStreakNum=ffffff" />
 
 </div>
-
----
-
-## 🎯 Vision & Vibes
-
-🔧 **Build a dev space where collaboration isn't a buzzword — it's a baseline**
-
-- 💡 Develop AI tools and intuitive platforms for real-world impact
-- 🌐 Explore the intersection of Cybersecurity, DevOps & Automation
-- 🧠 Keep upskilling in Backend Systems, Devops, and GenAI 
-
-And someday... launch something of my own that makes you say “Whoa, that’s slick.” 🚀
-
----
-
-## 🎮 When Not Coding...
-
-⚽ Footballer by soul – big love for the game  
-📺 Series enthusiast – from thrillers to tech-driven narratives  
-📊 Exploring the world of trading – charts, trends & strategies  
-🎧 Lo-fi & chillhop coder – always ready to share playlists  
-
----
 
 ## 📬 Get In Touch (Strictly Tech Vibes Only)
 
