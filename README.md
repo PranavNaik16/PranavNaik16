@@ -134,8 +134,8 @@ And someday... launch something of my own that makes you say “Whoa, that’s s
 
 ## 🎮 When Not Coding...
 
-⚽ Footballer by soul – Big Love for the Game 
-📺 Binge-worthy series lover – from thrillers to tech dramas
+⚽ Footballer by soul – big love for the game  
+📺 Series enthusiast – from thrillers to tech-driven narratives  
 📊 Exploring the world of trading – charts, trends & strategies  
 🎧 Lo-fi & chillhop coder – always ready to share playlists  
 
