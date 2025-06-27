@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, internet traveler! Welcome to Pranav’s Digital Space 🚀🌐</h1>
+<h1 align="center">👋 Hey there, internet traveler! Welcome to Pranav’s Root Terminal 🔐🚀</h1>
 
 <p align="center">
   <em>Code artisan 🛠️ | UI/UX dabbler 🎨 | DevOps explorer ⚙️ | Budding Cyber Sentinel 🛡️</em>  
@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /></td>
   </tr>
   <tr>
     <td><b>Web Development</b></td>
