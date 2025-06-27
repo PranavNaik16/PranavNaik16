@@ -118,4 +118,37 @@
 
 </div>
 
+---
+
+## 🎯 Vision & Vibes
+
+🔧 **Build a dev space where collaboration isn't a buzzword — it's a baseline**
+
+- 💡 Develop AI tools and intuitive platforms for real-world impact
+- 🌐 Explore the intersection of Cybersecurity, DevOps & Automation
+- 🧠 Keep upskilling in Backend Systems, Devops, and GenAI 
+
+And someday... launch something of my own that makes you say “Whoa, that’s slick.” 🚀
+
+---
+
+## 🎮 When Not Coding...
+
+⚽ Footballer by soul – Big Love for the Game 
+📺 Binge-worthy series lover – from thrillers to tech dramas
+📊 Exploring the world of trading – charts, trends & strategies  
+🎧 Lo-fi & chillhop coder – always ready to share playlists  
+
+---
+
+## 📬 Get In Touch (Strictly Tech Vibes Only)
+
+- [📄 My Resume](#)  
+- [🌐 Portfolio](#)  
+- [📧 Email Me](pranavnaik355@gmail.com)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/pranav-naik-07503a264/)
+
+---
+
+
 
