@@ -20,24 +20,41 @@
 
 ---
 
-## 🛠️ My Arsenal (No Gunners here — just tech!)
+## 🛠️ My Arsenal (I am not a Gunners fan) – Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" alt="Programming Languages"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Web Development"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask" alt="Frameworks"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" alt="Tools"/>
-  <img src="https://skillicons.dev/icons?i=windows,linux,figma,anaconda" alt="OS & Others"/>
-</p>
+<table align="center">
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Web Development</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,django,flask" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" /></td>
+  </tr>
+  <tr>
+    <td><b>OS & Others</b></td>
+    <td><img src="https://skillicons.dev/icons?i=windows,linux,figma,anaconda" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-DSA-orange?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/-DevOps-blue?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-UI/UX-ff69b4?style=flat-square&logo=figma" />
 </p>
+
 
 ---
 
